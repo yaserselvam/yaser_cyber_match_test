@@ -56,6 +56,7 @@ The goal of this task was to normalize and map raw cybersecurity spend data to a
 
 ## Author
 
-**Yaser Selvam**  
+**Yaser Selvam**
+📍 Leeds, UK
 📧 yaseruk259@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yaserselvam) | [GitHub](https://github.com/yaserselvam) | [Website](https://www.datascienceportfol.io/yaserselvam)
+🔗 [LinkedIn](https://www.linkedin.com/in/yaserselvam) | [GitHub](https://github.com/yaserselvam) | [Portfolio](https://www.datascienceportfol.io/yaserselvam)
